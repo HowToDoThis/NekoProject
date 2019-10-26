@@ -1,4 +1,4 @@
-[rickyah/ini-parser](#INI-File-Parser) | [dennismagno/metroframework-modern-ui](#MetroFramework) | [IgnaceMaes/MaterialSkin](#Material Design)
+[rickyah/ini-parser](#INI-File-Parser) | [dennismagno/metroframework-modern-ui](#MetroFramework) | [IgnaceMaes/MaterialSkin](#Material-Design)
 # INI File Parser
 
 A .NET, Mono and Unity3d compatible(*) library for reading/writing INI data from IO streams, file streams, and strings written in C#.
